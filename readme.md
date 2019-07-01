@@ -1,5 +1,5 @@
 ## **AJARO INTERNSHIP TEST**
-2019 (c) Program Pengelolaan Barang. Program pengelolaan barang yang dibuat dengan framework laravel. Program ini dibuat oleh [https://instagram.com/_reassn](Andreas Novyanto) sebagai bentuk persyaratan mengikuti program internship yang diadakan oleh **AJARO**. Untuk tampilan frontend menggunakan **Bootstrap v4**.
+2019 (c) Program Pengelolaan Barang. Program pengelolaan barang yang dibuat dengan framework laravel. Program ini dibuat oleh [Andreas Novyanto](https://instagram.com/_reassn) sebagai bentuk persyaratan mengikuti program internship yang diadakan oleh **AJARO**. Untuk tampilan frontend menggunakan **Bootstrap v4**.
 
 ## **Struktur Database**
 
