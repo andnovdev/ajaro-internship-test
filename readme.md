@@ -3,7 +3,6 @@
 
 ## **Struktur Database**
 
-**Barang**
 | barangs                    |
 | :------------------------- |
 | id int (11) auto increment |
